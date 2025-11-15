@@ -1,4 +1,4 @@
-<h1 align="center">Fast Developer</h1>
+<h1 align="center">Fast</h1>
 
 <p align="center">
   <a href="mailto:fastzaaao@gmail.com">
@@ -19,7 +19,7 @@
 </p>
 
 ## 👤 Sobre mim
-Sou desenvolvedor focado em criar aplicações funcionais, organizadas e com boa performance.
+Sou um desenvolvedor focado em criar aplicações funcionais, organizadas e com boa performance.
 
 ### 🛠️ Tecnologias que uso
 
