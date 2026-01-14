@@ -1,4 +1,4 @@
-<h1 align="center">Fast</h1>
+<h1 align="center">Lucas Campos</h1>
 
 <p align="center">
   <a href="mailto:fastzaaao@gmail.com">
