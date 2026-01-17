@@ -11,8 +11,8 @@
   <a href="https://discord.com/users/conflitar">
     <img src="https://img.shields.io/badge/Discord-conflitar-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://fastdeveloper.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-fastdeveloper.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://lucasc.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-lucasc.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
