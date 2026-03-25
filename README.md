@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:fastzaaao@gmail.com">
+  <a href="mailto:lucasfcampooss@gmail.com">
     <img src="https://img.shields.io/badge/Email-fastzaaao%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/conflitar">
