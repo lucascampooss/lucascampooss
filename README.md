@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:lucasfcampooss@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fastzaaao%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-lucasfcampooss%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/conflitar">
     <img src="https://img.shields.io/badge/Discord-conflitar-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
